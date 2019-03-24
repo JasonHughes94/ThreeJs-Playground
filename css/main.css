@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  height: 100vh;
+}
+
+canvas {
+  display: block;
+}
+
+h1 {
+  position: absolute;
+  top: 2em;
+  left: 2em;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 6em;
+  text-transform: uppercase;
+  width: auto;
+  line-height: 1em;
+  border: 3px solid black;
+  padding: 0.5em;
+}
